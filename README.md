@@ -82,3 +82,8 @@ docker.io   docker.io/vaultvulp/fava-beancount       Docker Image for fava and b
 docker.io   docker.io/westphahl/fava                                                                 0                    
 docker.io   docker.io/witten/fava                                                                    0                    
 docker.io   docker.io/zsxsoft/fava-management        A fava management panel.                        0                    
+
+docker search fava # Amazing!
+
+Can use docker-compose.yml to wire things together instead of using docker RUN commands
+
