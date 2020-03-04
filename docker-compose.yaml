@@ -1,0 +1,11 @@
+version: '3.6'
+
+service:
+    fava:  
+        image: 
+
+#    letsencrypt:
+
+
+# Do we need docker volumes or just bind mounts
+volumes:

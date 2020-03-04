@@ -1,3 +1,9 @@
+# neat stuff
+
+  - docker search fava # Amazing!
+  - Can use docker-compose.yml to wire things together instead of using docker RUN commands
+  - google for "docker fava letsencrypt"
+
 # Available docker.io based webservers images - not nginx nor apache specific - nginx:alpine ~5M
 INDEX       NAME                                        DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
 docker.io   docker.io/nazarpc/webserver                 WebServer (MariaDB, PHP-FPM, Nginx) compos...   29                   [OK]
@@ -83,7 +89,4 @@ docker.io   docker.io/westphahl/fava                                            
 docker.io   docker.io/witten/fava                                                                    0                    
 docker.io   docker.io/zsxsoft/fava-management        A fava management panel.                        0                    
 
-docker search fava # Amazing!
-
-Can use docker-compose.yml to wire things together instead of using docker RUN commands
 
