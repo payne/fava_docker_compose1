@@ -2,7 +2,7 @@
 
   - docker search fava # Amazing!
   - Can use docker-compose.yml to wire things together instead of using docker RUN commands
-  - google for "docker fava letsencrypt"
+  - google for "github docker fava letsencrypt"
 
 # Available docker.io based webservers images - not nginx nor apache specific - nginx:alpine ~5M
 INDEX       NAME                                        DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
